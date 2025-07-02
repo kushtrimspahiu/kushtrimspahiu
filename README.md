@@ -25,3 +25,9 @@ I'm a passionate Android Developer with a strong focus on **Kotlin** and **Kotli
 - **Build Tools**: Gradle  
 
 ---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/kushtrim-spahiu/
+
+---
