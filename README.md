@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Kushtrim Spahiu
 
-<!--
-**kushtrimspahiu/kushtrimspahiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Android Developer with a strong focus on **Kotlin** and **Kotlin Multiplatform (KMP)**. I love building clean, efficient, and scalable mobile applications that run seamlessly across Android and other platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Android developer experienced in **Jetpack Compose**, **Coroutines**, and **Clean Architecture**
+- 🌍 Advocate for **code sharing and cross-platform development** using Kotlin Multiplatform
+- 🔧 Skilled with **Ktor**, **SQLDelight**, and other Kotlin ecosystem tools
+- 📱 Focused on delivering **intuitive and high-performance user experiences**
+- ✨ Always learning and exploring modern development practices
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Kotlin, Java  
+- **Mobile**: Android (Jetpack, Compose, MVVM, KMP)  
+- **Cross-Platform**: Kotlin Multiplatform (KMM)  
+- **Networking**: Ktor, Retrofit  
+- **Databases**: SQLDelight, Room  
+- **Testing**: JUnit, MockK, Espresso  
+- **Build Tools**: Gradle  
+
+---
