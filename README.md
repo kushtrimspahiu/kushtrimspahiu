@@ -29,5 +29,5 @@ I'm a passionate Android Developer with a strong focus on **Kotlin** and **Kotli
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/kushtrim-spahiu/
-
+- Email: kushtrim.spahiu@gmail.com
 ---
